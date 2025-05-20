@@ -1,7 +1,7 @@
 import pytest
 
-from project_name.apps import MyAppDROP
-from project_name.data import  MyDataDROP
+from turbo_garbanzo.apps import MyAppDROP
+from turbo_garbanzo.data import  MyDataDROP
 
 given = pytest.mark.parametrize
 
